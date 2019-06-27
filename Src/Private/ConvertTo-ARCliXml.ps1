@@ -1,4 +1,4 @@
-ConvertTo-ARCliXmlfunction ConvertTo-ARCliXml {
+function ConvertTo-ARCliXml {
     param (
         [Parameter(
             Position = 0,
